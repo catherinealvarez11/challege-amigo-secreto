@@ -3,8 +3,8 @@
 let lista = [];
 let listaAmigos = document.getElementById("listaAmigos");
 let resultado = document.getElementById("resultado");
-let inputNombre = document.getElementById("agregarAmigo"); // Se ajusta al id correcto
-let btnAgregar = document.getElementById("agregar"); // Se añade el id correcto
+let inputNombre = document.getElementById("agregarAmigo"); 
+let btnAgregar = document.getElementById("agregar"); 
 
 // Función para agregar amigos
 function agregarAmigo() {
